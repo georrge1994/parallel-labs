@@ -1,0 +1,1 @@
+JMH S 15 multmatrix.Main S 41 multmatrix.generated.Main_checkIt_jmhTest S 7 checkIt S 11 AverageTime E A 1 1 1 E I 2 10 T 3 1 s E I 2 10 T 3 1 s E I 1 1 E E E E E M 1 4 SIZE 6 1 1 2 10 3 100 3 500 4 1000 4 2000 U 11 NANOSECONDS E E 
